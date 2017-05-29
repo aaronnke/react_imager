@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.Image {
+  margin: 24px;
+  width: 400px;
+  height: 300px;
+}
+
+.example-enter {
+  opacity: 0.01;
+}
+
+.example-enter.example-enter-active {
+  opacity: 1;
+  transition: opacity 1000ms ease-in;
+}
